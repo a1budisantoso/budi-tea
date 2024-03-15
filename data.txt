@@ -1,0 +1,3 @@
+PrivateKey  : ed25519:
+NodeURL     : https://near-testnet.lava.build/lava-referer-7a310bfe-ce24-4380-9df0-4aa1a19972d0/
+PublicKey   : looseroom.testnet
